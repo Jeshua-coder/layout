@@ -1,0 +1,10 @@
+.nav-item {
+    float: left;
+}
+.grow {
+    height: 63px;
+    width:813px;
+}
+.ie-nav-item {
+    float: right;
+}
