@@ -425,9 +425,9 @@ template {
 
 .main-jumbotron {
     width: 80vw;
+    max-width: 400px;
     margin-left: auto;
     margin-right: auto;
-    
 }
 
 .main-condition {
